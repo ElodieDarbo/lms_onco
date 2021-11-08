@@ -2,7 +2,7 @@
 
 This workflow is composed of 11 R scripts organized in 4 main parts. The scripts are ordered and need to be run sequentially. The MASTER_script.R script allows to run the whole pipeline at once. The majority of the scripts depends on the previous script, no intermediate results are kept. Functions used in each part are written in a separate file _functions.R_.
 
-The aim of the workflow is to reproduce the results presented in the manuscript.
+The aim of the workflow is to reproduce the results presented in the manuscript (BioRxiv preprint: https://www.biorxiv.org/content/10.1101/2020.10.23.352336).
 
 ## Data
 ### From public databases
